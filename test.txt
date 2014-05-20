@@ -1,4 +1,4 @@
-test move  test after -- snapshot 0512--3
+test test move  test after -- snapshot 0512--3
 
 
 test test snapshot test test0507-03, test0505, test0501-2,test 0428-02,test, test load again, reload, test metadata copy, test metadata, test accept, updated in stream, create project area using 
